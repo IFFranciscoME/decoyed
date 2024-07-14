@@ -1,8 +1,10 @@
 
 # --- Manually modified --- #
+
 .python-version
 pyrightconfig.json
 
+# --- ----------------- --- #
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
